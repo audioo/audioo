@@ -3,7 +3,7 @@
 Here is some information about me:
 
 - 🔭 I’m currently working on [GoSeek](https://github.com/audioo/goseek), an OSINT & OPSEC Multi-Tool.
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Golang, began in the beginning of february, 2021.
 - 📫 You can reach me via [Email](mailto:hyperaudio@protonmail.com)
 - 😄 My pronouns are he/him.
 
