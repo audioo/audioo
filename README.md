@@ -4,6 +4,7 @@ Here is some information about me:
 
 - ⚙️ I’m currently working on [GoSeek](https://github.com/audioo/goseek), an OSINT & OPSEC Multi-Tool.
 - 📝 I’m currently learning Golang, began in the beginning of february, 2021.
+- ⏮️ I have previous experience in C#, Java, Python, and JS.
 - 📧 You can reach me via [Email](mailto:hyperaudio@protonmail.com)
 - 🌐 Visit my website for more information! [https://audioo.github.io](https://audioo.github.io)
 
