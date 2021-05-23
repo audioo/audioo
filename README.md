@@ -4,7 +4,7 @@
 </a>
 
 ## About me
-- 💻 I’m currently working on [Omniscient](https://github.com/maraudery/omniscient)
+- 💻 I’m currently working on [Omniscient](https://github.com/maraudery/omniscient) and [Fluid](https://github.com/maraudery/fluid)
 - 🌱 I’m currently learning Golang
 - 🌐 Visit my [Website](https://maraudery.github.io)!
 - 💬 Ask me about anything, I am happy to help
