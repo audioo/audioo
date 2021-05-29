@@ -1,4 +1,4 @@
-<img src="./bannerfix.png" alt="Maraudery's GitHub README header image">
+<img src="./newprofban.png" alt="Maraudery's GitHub README header image">
 <a href="https://www.buymeacoffee.com/maraudery" target="_blank" rel="noreferrer nofollow">
   <img src="./bmac.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
