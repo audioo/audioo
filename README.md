@@ -1,6 +1,6 @@
 <img src="./newprofban.png" alt="Maraudery's GitHub README header image">
 <a href="https://www.buymeacoffee.com/maraudery" target="_blank" rel="noreferrer nofollow">
-  <img src="./bmac.png" alt="Buy Me A Coffee" height="40" width="170" >
+  <a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maraudery&button_colour=000000&font_colour=76a93d&font_family=Poppins&outline_colour=76a93d&coffee_colour=76a93d"></a>
 </a>
 
 ## About me
