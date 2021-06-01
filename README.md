@@ -10,5 +10,6 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: maraudery@protonmail.com
 
+**If a project is not archived, then I am still working on updating & maintaining it. I am currently occupied with school and work which is why updates are very slow. For anyone who is waiting on anything with any of my projects, please let me know via email. I would be happy to prioritize the issue and help!**
 
 **Show some love by starring a repository! See the projects I am proudest of below:**
