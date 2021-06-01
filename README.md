@@ -4,7 +4,7 @@
 </a>
 
 ## About me
-- 💻 I’m currently working on [Omniscient](https://github.com/maraudery/omniscient), [Fluid](https://github.com/maraudery/fluid), and [Netflip](https://github.com/maraudery/fluid)
+- 💻 I’m currently working on [Omniscient](https://github.com/maraudery/omniscient), [Fluid](https://github.com/maraudery/fluid), and [Digest](https://github.com/maraudery/digest)
 - 🌱 I’m currently learning Golang and Rust
 - 🌐 Visit my [Website](https://maraudery.github.io)!
 - 💬 Ask me about anything, I am happy to help
